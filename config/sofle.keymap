@@ -35,7 +35,7 @@
 // |   `   |  1  |  2  |  3   |  4   |  5   |                   |  6   |  7    |  8    |  9   |   0   |   -   |
 // |  TAB  |  '  |  L  |  D   |  C   |  V   |                   |  J   |  Y    |  O    |  U   |   ,   | BKSPC |
 // | CAPS  |  N  |  R  |  T   |  S   |  G   |                   |  P   |  H    |  A    |  E   |   I   |   /   |
-// | SHIFT |  X  |  Q  |  M   |  W   |  Z   |  MUTE  |  |       |  K   |  F    |  '    |  ;   |   .   | SHIFT |
+// | SHIFT |  X  |  Q  |  M   |  W   |  Z   |  MUTE  |  |       |  K   |  F    |  B    |  ;   |   .   | SHIFT |
 //               | GUI | ALT  | CTRL | LOWER|  ENTER |  | SPACE | RAISE| CTRL  | ALT   | GUI  |
             bindings = <
 &kp GRAVE &kp N1  &kp N2   &kp N3   &kp N4    &kp N5                           &kp N6 &kp N7    &kp N8    &kp N9   &kp N0   &kp MINUS
